@@ -1,5 +1,5 @@
 var React = require('react');
-var {CreateForm} = require('react-composable-form');
+var {CreateForm} = require('react-formation');
 
 module.exports = CreateForm({
 

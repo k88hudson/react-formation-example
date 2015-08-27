@@ -1,5 +1,5 @@
 var React = require('react');
-var {CreateForm, SubmitButton, ErrorMessage} = require('react-composable-form');
+var {CreateForm, SubmitButton, ErrorMessage} = require('react-formation');
 
 var CreditCard = require('./CreditCard.jsx');
 

@@ -1,5 +1,5 @@
 var React = require('react');
-var {FormMixin, ErrorMessage} = require('react-composable-form');
+var {FormMixin, ErrorMessage} = require('react-formation');
 
 module.exports = React.createClass({
 
